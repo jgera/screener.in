@@ -5,7 +5,7 @@ To run the scraper just execute, by default it will download few symbols TCS, IN
 ```python
 python scraper.py 
 ```
-![scraper](https://raw.githubusercontent.com/jgera/screener.in/main/images/1.png)
+![scraper](https://raw.githubusercontent.com/jgera/screener.in/main/images/2.png)
 
 You can specify the symboles in a file for expample and path to download the report files as  
 ```python
