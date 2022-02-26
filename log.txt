@@ -1,0 +1,352 @@
+2022-02-26 15:40:03,859 - Getting: https://www.screener.in/api/company/search/?q=COALINDIA
+
+2022-02-26 15:40:04,317 - Downloading: COALINDIA
+
+2022-02-26 15:40:04,988 - Getting: https://www.screener.in/api/company/search/?q=TATAMOTORS
+
+2022-02-26 15:40:05,475 - Downloading: TATAMOTORS
+
+2022-02-26 15:40:06,146 - Getting: https://www.screener.in/api/company/search/?q=TATASTEEL
+
+2022-02-26 15:40:06,645 - Downloading: TATASTEEL
+
+2022-02-26 15:40:07,349 - Getting: https://www.screener.in/api/company/search/?q=ADANIPORTS
+
+2022-02-26 15:40:07,817 - Downloading: ADANIPORTS
+
+2022-02-26 15:40:08,492 - Getting: https://www.screener.in/api/company/search/?q=INDUSINDBK
+
+2022-02-26 15:40:09,436 - Downloading: INDUSINDBK
+
+2022-02-26 15:41:53,479 - Getting: https://www.screener.in/api/company/search/?q=COALINDIA
+
+2022-02-26 15:41:54,413 - Downloading: COALINDIA
+
+2022-02-26 15:41:55,108 - Getting: https://www.screener.in/api/company/search/?q=TATAMOTORS
+
+2022-02-26 15:41:55,555 - Downloading: TATAMOTORS
+
+2022-02-26 15:41:56,259 - Getting: https://www.screener.in/api/company/search/?q=TATASTEEL
+
+2022-02-26 15:41:56,673 - Downloading: TATASTEEL
+
+2022-02-26 15:43:51,426 - Getting: https://www.screener.in/api/company/search/?q=COALINDIA
+
+2022-02-26 15:43:51,849 - Downloading: COALINDIA
+
+2022-02-26 15:43:52,567 - Getting: https://www.screener.in/api/company/search/?q=TATAMOTORS
+
+2022-02-26 15:43:53,052 - Downloading: TATAMOTORS
+
+2022-02-26 15:43:53,731 - Getting: https://www.screener.in/api/company/search/?q=TATASTEEL
+
+2022-02-26 15:43:54,150 - Downloading: TATASTEEL
+
+2022-02-26 15:44:54,748 - Getting: https://www.screener.in/api/company/search/?q=COALINDIA
+
+2022-02-26 15:44:55,217 - Downloading: COALINDIA
+
+2022-02-26 15:44:55,902 - Getting: https://www.screener.in/api/company/search/?q=TATAMOTORS
+
+2022-02-26 15:44:56,372 - Downloading: TATAMOTORS
+
+2022-02-26 15:44:57,074 - Getting: https://www.screener.in/api/company/search/?q=TATASTEEL
+
+2022-02-26 15:44:57,505 - Downloading: TATASTEEL
+
+2022-02-26 15:44:58,200 - Getting: https://www.screener.in/api/company/search/?q=ADANIPORTS
+
+2022-02-26 15:44:58,692 - Downloading: ADANIPORTS
+
+2022-02-26 15:44:59,372 - Getting: https://www.screener.in/api/company/search/?q=INDUSINDBK
+
+2022-02-26 15:44:59,856 - Downloading: INDUSINDBK
+
+2022-02-26 15:45:00,536 - Getting: https://www.screener.in/api/company/search/?q=BAJFINANCE
+
+2022-02-26 15:45:00,977 - Downloading: BAJFINANCE
+
+2022-02-26 15:45:01,498 - Getting: https://www.screener.in/api/company/search/?q=JSWSTEEL
+
+2022-02-26 15:45:01,973 - Downloading: JSWSTEEL
+
+2022-02-26 15:45:02,678 - Getting: https://www.screener.in/api/company/search/?q=DIVISLAB
+
+2022-02-26 15:45:03,156 - Downloading: DIVISLAB
+
+2022-02-26 15:45:03,854 - Getting: https://www.screener.in/api/company/search/?q=TATACONSUM
+
+2022-02-26 15:45:04,311 - Downloading: TATACONSUM
+
+2022-02-26 15:45:04,985 - Getting: https://www.screener.in/api/company/search/?q=NTPC
+
+2022-02-26 15:45:05,793 - Downloading: NTPC
+
+2022-02-26 15:45:06,499 - Getting: https://www.screener.in/api/company/search/?q=TECHM
+
+2022-02-26 15:45:06,997 - Downloading: TECHM
+
+2022-02-26 15:45:07,686 - Getting: https://www.screener.in/api/company/search/?q=AXISBANK
+
+2022-02-26 15:45:08,735 - Downloading: AXISBANK
+
+2022-02-26 15:45:09,357 - Getting: https://www.screener.in/api/company/search/?q=KOTAKBANK
+
+2022-02-26 15:45:09,771 - Downloading: KOTAKBANK
+
+2022-02-26 15:45:10,398 - Getting: https://www.screener.in/api/company/search/?q=TCS
+
+2022-02-26 15:45:10,894 - Downloading: TCS
+
+2022-02-26 15:45:11,580 - Getting: https://www.screener.in/api/company/search/?q=SHREECEM
+
+2022-02-26 15:45:12,058 - Downloading: SHREECEM
+
+2022-02-26 15:45:12,773 - Getting: https://www.screener.in/api/company/search/?q=POWERGRID
+
+2022-02-26 15:45:13,245 - Downloading: POWERGRID
+
+2022-02-26 15:45:13,892 - Getting: https://www.screener.in/api/company/search/?q=WIPRO
+
+2022-02-26 15:45:14,397 - Downloading: WIPRO
+
+2022-02-26 15:45:15,280 - Getting: https://www.screener.in/api/company/search/?q=ICICIBANK
+
+2022-02-26 15:45:16,015 - Downloading: ICICIBANK
+
+2022-02-26 15:45:17,051 - Getting: https://www.screener.in/api/company/search/?q=UPL
+
+2022-02-26 15:45:17,522 - Downloading: UPL
+
+2022-02-26 16:03:45,306 - Getting: https://www.screener.in/api/company/search/?q=TCS
+2022-02-26 16:04:06,072 - Downloading: TCS
+2022-02-26 16:04:34,314 - Getting: https://www.screener.in/api/company/search/?q=TCS
+2022-02-26 16:04:34,766 - Downloading: TCS
+2022-02-26 16:06:25,206 - Getting: https://www.screener.in/api/company/search/?q=TCS
+2022-02-26 16:06:25,632 - Downloading: TCS
+2022-02-26 16:06:26,322 - Getting: https://www.screener.in/api/company/search/?q=INFY
+2022-02-26 16:06:26,744 - Downloading: INFY
+2022-02-26 16:06:27,432 - Getting: https://www.screener.in/api/company/search/?q=WIPRO
+2022-02-26 16:06:27,847 - Downloading: WIPRO
+2022-02-26 16:14:31,347 - Getting: https://www.screener.in/api/company/search/?q=COALINDIA
+
+2022-02-26 16:14:31,815 - Downloading: COALINDIA
+
+2022-02-26 16:14:32,501 - Getting: https://www.screener.in/api/company/search/?q=TATAMOTORS
+
+2022-02-26 16:14:32,953 - Downloading: TATAMOTORS
+
+2022-02-26 16:14:33,640 - Getting: https://www.screener.in/api/company/search/?q=TATASTEEL
+
+2022-02-26 16:14:34,105 - Downloading: TATASTEEL
+
+2022-02-26 16:14:34,807 - Getting: https://www.screener.in/api/company/search/?q=ADANIPORTS
+
+2022-02-26 16:14:35,275 - Downloading: ADANIPORTS
+
+2022-02-26 16:14:46,472 - Getting: https://www.screener.in/api/company/search/?q=COALINDIA
+
+2022-02-26 16:14:46,925 - Downloading: COALINDIA
+
+2022-02-26 16:14:47,613 - Getting: https://www.screener.in/api/company/search/?q=TATAMOTORS
+
+2022-02-26 16:14:48,036 - Downloading: TATAMOTORS
+
+2022-02-26 16:14:48,738 - Getting: https://www.screener.in/api/company/search/?q=TATASTEEL
+
+2022-02-26 16:14:49,206 - Downloading: TATASTEEL
+
+2022-02-26 16:14:49,894 - Getting: https://www.screener.in/api/company/search/?q=ADANIPORTS
+
+2022-02-26 16:14:50,332 - Downloading: ADANIPORTS
+
+2022-02-26 16:14:51,222 - Getting: https://www.screener.in/api/company/search/?q=INDUSINDBK
+
+2022-02-26 16:14:51,690 - Downloading: INDUSINDBK
+
+2022-02-26 16:14:52,345 - Getting: https://www.screener.in/api/company/search/?q=BAJFINANCE
+
+2022-02-26 16:14:52,797 - Downloading: BAJFINANCE
+
+2022-02-26 16:14:53,328 - Getting: https://www.screener.in/api/company/search/?q=JSWSTEEL
+
+2022-02-26 16:14:53,780 - Downloading: JSWSTEEL
+
+2022-02-26 16:14:54,466 - Getting: https://www.screener.in/api/company/search/?q=DIVISLAB
+
+2022-02-26 16:14:55,402 - Downloading: DIVISLAB
+
+2022-02-26 16:14:56,089 - Getting: https://www.screener.in/api/company/search/?q=TATACONSUM
+
+2022-02-26 16:14:56,526 - Downloading: TATACONSUM
+
+2022-02-26 16:14:57,223 - Getting: https://www.screener.in/api/company/search/?q=NTPC
+
+2022-02-26 16:14:57,678 - Downloading: NTPC
+
+2022-02-26 16:14:58,380 - Getting: https://www.screener.in/api/company/search/?q=TECHM
+
+2022-02-26 16:14:58,832 - Downloading: TECHM
+
+2022-02-26 16:14:59,519 - Getting: https://www.screener.in/api/company/search/?q=AXISBANK
+
+2022-02-26 16:14:59,956 - Downloading: AXISBANK
+
+2022-02-26 16:15:00,580 - Getting: https://www.screener.in/api/company/search/?q=KOTAKBANK
+
+2022-02-26 16:15:01,003 - Downloading: KOTAKBANK
+
+2022-02-26 16:15:01,631 - Getting: https://www.screener.in/api/company/search/?q=TCS
+
+2022-02-26 16:15:02,068 - Downloading: TCS
+
+2022-02-26 16:15:02,754 - Getting: https://www.screener.in/api/company/search/?q=SHREECEM
+
+2022-02-26 16:15:03,192 - Downloading: SHREECEM
+
+2022-02-26 16:15:03,841 - Getting: https://www.screener.in/api/company/search/?q=POWERGRID
+
+2022-02-26 16:15:04,294 - Downloading: POWERGRID
+
+2022-02-26 16:15:04,952 - Getting: https://www.screener.in/api/company/search/?q=WIPRO
+
+2022-02-26 16:15:05,404 - Downloading: WIPRO
+
+2022-02-26 16:15:06,106 - Getting: https://www.screener.in/api/company/search/?q=ICICIBANK
+
+2022-02-26 16:15:06,574 - Downloading: ICICIBANK
+
+2022-02-26 16:15:07,196 - Getting: https://www.screener.in/api/company/search/?q=UPL
+
+2022-02-26 16:15:07,617 - Downloading: UPL
+
+2022-02-26 16:15:08,304 - Getting: https://www.screener.in/api/company/search/?q=BAJAJFINSV
+
+2022-02-26 16:15:08,756 - Downloading: BAJAJFINSV
+
+2022-02-26 16:15:09,427 - Getting: https://www.screener.in/api/company/search/?q=CIPLA
+
+2022-02-26 16:15:09,926 - Downloading: CIPLA
+
+2022-02-26 16:15:10,597 - Getting: https://www.screener.in/api/company/search/?q=HINDALCO
+
+2022-02-26 16:15:11,065 - Downloading: HINDALCO
+
+2022-02-26 16:15:11,736 - Getting: https://www.screener.in/api/company/search/?q=HCLTECH
+
+2022-02-26 16:15:12,188 - Downloading: HCLTECH
+
+2022-02-26 16:15:12,874 - Getting: https://www.screener.in/api/company/search/?q=HEROMOTOCO
+
+2022-02-26 16:15:13,311 - Downloading: HEROMOTOCO
+
+2022-02-26 16:15:13,514 - Getting: https://www.screener.in/api/company/search/?q=ITC
+
+2022-02-26 16:15:13,951 - Downloading: ITC
+
+2022-02-26 16:15:14,156 - Getting: https://www.screener.in/api/company/search/?q=BHARTIARTL
+
+2022-02-26 16:16:35,470 - Getting: https://www.screener.in/api/company/search/?q=BHARTIARTL
+2022-02-26 16:16:35,938 - Downloading: BHARTIARTL
+2022-02-26 16:16:53,551 - Getting: https://www.screener.in/api/company/search/?q=COALINDIA
+
+2022-02-26 16:16:54,004 - Downloading: COALINDIA
+
+2022-02-26 16:16:54,706 - Getting: https://www.screener.in/api/company/search/?q=TATAMOTORS
+
+2022-02-26 16:16:55,176 - Downloading: TATAMOTORS
+
+2022-02-26 16:16:55,862 - Getting: https://www.screener.in/api/company/search/?q=TATASTEEL
+
+2022-02-26 16:16:56,299 - Downloading: TATASTEEL
+
+2022-02-26 16:16:57,001 - Getting: https://www.screener.in/api/company/search/?q=ADANIPORTS
+
+2022-02-26 16:16:57,454 - Downloading: ADANIPORTS
+
+2022-02-26 16:16:58,140 - Getting: https://www.screener.in/api/company/search/?q=INDUSINDBK
+
+2022-02-26 16:16:58,592 - Downloading: INDUSINDBK
+
+2022-02-26 16:16:59,248 - Getting: https://www.screener.in/api/company/search/?q=BAJFINANCE
+
+2022-02-26 16:16:59,700 - Downloading: BAJFINANCE
+
+2022-02-26 16:17:00,262 - Getting: https://www.screener.in/api/company/search/?q=JSWSTEEL
+
+2022-02-26 16:17:00,730 - Downloading: JSWSTEEL
+
+2022-02-26 16:17:01,416 - Getting: https://www.screener.in/api/company/search/?q=DIVISLAB
+
+2022-02-26 16:17:01,853 - Downloading: DIVISLAB
+
+2022-02-26 16:17:02,555 - Getting: https://www.screener.in/api/company/search/?q=TATACONSUM
+
+2022-02-26 16:17:03,007 - Downloading: TATACONSUM
+
+2022-02-26 16:17:03,709 - Getting: https://www.screener.in/api/company/search/?q=NTPC
+
+2022-02-26 16:17:04,162 - Downloading: NTPC
+
+2022-02-26 16:17:04,864 - Getting: https://www.screener.in/api/company/search/?q=TECHM
+
+2022-02-26 16:17:05,316 - Downloading: TECHM
+
+2022-02-26 16:17:06,002 - Getting: https://www.screener.in/api/company/search/?q=AXISBANK
+
+2022-02-26 16:17:06,470 - Downloading: AXISBANK
+
+2022-02-26 16:17:07,126 - Getting: https://www.screener.in/api/company/search/?q=KOTAKBANK
+
+2022-02-26 16:17:07,562 - Downloading: KOTAKBANK
+
+2022-02-26 16:17:08,218 - Getting: https://www.screener.in/api/company/search/?q=TCS
+
+2022-02-26 16:17:08,717 - Downloading: TCS
+
+2022-02-26 16:17:09,388 - Getting: https://www.screener.in/api/company/search/?q=SHREECEM
+
+2022-02-26 16:17:09,840 - Downloading: SHREECEM
+
+2022-02-26 16:17:10,526 - Getting: https://www.screener.in/api/company/search/?q=POWERGRID
+
+2022-02-26 16:17:10,979 - Downloading: POWERGRID
+
+2022-02-26 16:17:11,650 - Getting: https://www.screener.in/api/company/search/?q=WIPRO
+
+2022-02-26 16:17:12,102 - Downloading: WIPRO
+
+2022-02-26 16:17:12,773 - Getting: https://www.screener.in/api/company/search/?q=ICICIBANK
+
+2022-02-26 16:17:13,241 - Downloading: ICICIBANK
+
+2022-02-26 16:17:13,880 - Getting: https://www.screener.in/api/company/search/?q=UPL
+
+2022-02-26 16:17:14,598 - Downloading: UPL
+
+2022-02-26 16:17:15,284 - Getting: https://www.screener.in/api/company/search/?q=BAJAJFINSV
+
+2022-02-26 16:17:15,768 - Downloading: BAJAJFINSV
+
+2022-02-26 16:17:16,439 - Getting: https://www.screener.in/api/company/search/?q=CIPLA
+
+2022-02-26 16:17:16,891 - Downloading: CIPLA
+
+2022-02-26 16:17:17,593 - Getting: https://www.screener.in/api/company/search/?q=HINDALCO
+
+2022-02-26 16:17:18,046 - Downloading: HINDALCO
+
+2022-02-26 16:17:18,748 - Getting: https://www.screener.in/api/company/search/?q=HCLTECH
+
+2022-02-26 16:17:19,231 - Downloading: HCLTECH
+
+2022-02-26 16:17:19,933 - Getting: https://www.screener.in/api/company/search/?q=HEROMOTOCO
+
+2022-02-26 16:17:20,401 - Downloading: HEROMOTOCO
+
+2022-02-26 16:17:20,604 - Getting: https://www.screener.in/api/company/search/?q=ITC
+
+2022-02-26 16:17:21,072 - Downloading: ITC
+
+2022-02-26 16:17:21,290 - Getting: https://www.screener.in/api/company/search/?q=BHARTIARTL
+
